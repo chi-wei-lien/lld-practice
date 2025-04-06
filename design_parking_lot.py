@@ -5,8 +5,11 @@ from typing import List, Set
 import threading
 
 """
+Question link:
+- https://github.com/ashishps1/awesome-low-level-design/blob/main/problems/parking-lot.md
+
 assumptions:
-- plate_num is unique
+- plate_num is unique 
 """
 
 
