@@ -3,6 +3,8 @@ from typing import List, Optional
 import threading
 
 """
+question link:
+- https://github.com/ashishps1/awesome-low-level-design/blob/main/problems/stack-overflow.md
 assumptions:
 - username is unique
 - cannot comment on commemnt
